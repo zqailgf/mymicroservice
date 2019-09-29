@@ -1,2 +1,0 @@
-# mymicroservice
-mymicroservice demo3
